@@ -8,6 +8,7 @@ class Post extends Component {
         })
         return topics;
     }
+    
     render() {
         return(
             <li className="recent-post">

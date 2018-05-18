@@ -1,6 +1,5 @@
 
 .results {
-    // @include default-page-layout();
     height: 100vh;
     width: 66vw;
     display: grid;
@@ -41,9 +40,8 @@
     }
 
     .result-post__links {
-        // display: flex;
         display: flex;
-        // height: 70px;
+        
     }
 }
 
